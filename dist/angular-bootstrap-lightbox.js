@@ -81,7 +81,7 @@ angular.module('bootstrapLightbox').provider('Lightbox', function () {
    * @name     templateUrl
    * @memberOf bootstrapLightbox.Lightbox
    */
-  this.templateUrl = 'lightbox.html';
+  this.templateUrl = 'components/general/lightbox.html';
 
   /**
    * Whether images should be scaled to the maximum possible dimensions.
